@@ -46,6 +46,14 @@ ul{
   margin:0;
   padding:0;
 }
+button_1 {
+  height:38px;
+  background: #4064ff;
+  border:0;
+  padding-left: 20px;
+  padding-right:20px;
+  color:#ffffff;
+}
 .active .line1{
   transform: rotate(-45deg) translate(-5px, 5px);
 }
@@ -63,7 +71,7 @@ nav ul {
   position: fixed;
   height: 100vh;
   width: 30%;
-  background: wheat;
+  background: White;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -73,7 +81,7 @@ ul h1{
   color: #fff;
 }
 ul li{
-  text-align: center;
+  text-align:center;
   padding:15px 0;
   width: 100%;
 }
@@ -83,7 +91,7 @@ ul li:hover{
   width:93%; 
 }
 li a{
-  color: auto;
+  color: ;
 }
 .grid-container {
    display: grid;
@@ -91,36 +99,34 @@ li a{
    gap: 10px;
 }    
 .card > img { 
-  width: 200px;
-  height: 300px;
-  border: 5px solid cadetblue;
-  padding: 10px;    
-  text-align: center;
-  background: url();
-  box-shadow: 30px 30px;
-  box-sizing: border-box;
-  display: auto;
+   width: 200px;
+   height: 300px;
+   border: 5px solid;
+   padding: 10px;    
+   text-align: center;
+   background: url();
+   box-shadow: 0 15px 30px rgba(0,0,0,0.30),
+   box-sizing: border-box;
+   display: auto;
 }
 footer {
   padding:20px;
   margin-top:20px;
-  color: black;
+  color: White;
+  background: black;
+  margin-bottom: 1%;  
 }
-footer-il {  
-  color: #ffff;  
-  background: blue;
+footer-a {  
+  color: White;  
+  background: black;
   text-decoration: none;  
-  margin-bottom: 50px;  
+  margin-bottom: 25;  
 }
 .text{
   padding:1px 10px 1px 10px;
   color:#ffff;
- }
- footer {
-   color: #04131c;
-   margin: 0px;  
-   background: #ff3f15; 
- }
+  }
+
  p{
     margin: auto;
   }
