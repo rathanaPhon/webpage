@@ -105,7 +105,7 @@ li a{
    padding: 10px;    
    text-align: center;
    background: url();
-   box-shadow: 0 15px 30px rgba(0,0,0,0.30),
+   box-shadow: 0 15px 30px rgba(0,0,0,0.30);
    box-sizing: border-box;
    display: auto;
 }
@@ -126,7 +126,6 @@ footer-a {
   padding:1px 10px 1px 10px;
   color:#ffff;
   }
-
- p{
+p{
     margin: auto;
-  }
+}
