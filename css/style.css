@@ -48,7 +48,7 @@ button_1 {
   border:0%;
   padding-left: 20px;
   padding-right:20px;
-  color:#ffffff;
+  color:#fffff;
 }
 ul{
   margin:0;
@@ -57,7 +57,7 @@ ul{
 button_1 {
   height:38px;
   background: #4064ff;
-  border:0;
+  border: auto;
   padding-left: 20px;
   padding-right:20px;
   color:#fffff;
@@ -86,7 +86,7 @@ nav ul {
   justify-content: center;
 }
 ul h1{
-  color: #fff;
+  color: #fffff;
 }
 ul li{
   text-align:center;
@@ -132,7 +132,7 @@ footer-a {
 }
 .text{
   padding:1px 10px 1px 10px;
-  color:#ffff;
+  color:#fffff;
   }
 p{
     margin: auto;
