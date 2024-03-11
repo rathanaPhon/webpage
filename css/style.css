@@ -15,7 +15,7 @@ body {
 .ham {
   width: 40px;
   height: 40px;
-  background: Gray;
+  background: Gray rgba(0, 255, 0, 1.0);
   border-radius: 7px;
   display: flex;
   flex-direction: column;
