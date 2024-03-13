@@ -126,7 +126,7 @@ footer {
 }
 footer-a {  
   color: White;  
-  background: black;
+ background-color: gray #808080;
   text-decoration: none;  
   margin-bottom: 25;  
 }
